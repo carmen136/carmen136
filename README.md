@@ -7,7 +7,7 @@ I'm Carmen and currently taking part in the Web Development Bootcamp organised b
 
 😄 she/ her  <br>
 🎧 True Crime Podcast fan <br>
-🏋️‍♀️ Strength training, cycling to the lake, stand-up paddling, playing table tennis - simply sport!💚  <br>
+🏋️‍♀️ Strength training, cycling to the lake, stand-up paddling, playing table tennis - you'll find me there!💚  <br>
 📍 Leipzig, Germany 
 
 
