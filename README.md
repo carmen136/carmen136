@@ -13,10 +13,9 @@ I'm Carmen and currently taking part in the Web Development Bootcamp organised b
 
 ---
 
-### current level
+### Tech Stack
 
- ⚙ I want to become better in `.css`, `.html` <br>
-🌱 I’m taking my first steps in `.js`
+ ⚙  `HTML 5` | `CSS` |  `Git` | `JavaScript` | `React` | `Node.js` | `Agile Workflows`
 
 
 
