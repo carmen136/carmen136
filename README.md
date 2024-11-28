@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Carmen and currently taking part in the Web Development Bootcamp organised by [neue fische](https://www.neuefische.de/bootcamp/web-development). The course should be the start for me to work as a  ✨web developer✨.
+I'm Carmen and I have just completed the Web Development Bootcamp organised by [neue fische](https://www.neuefische.de/bootcamp/web-development). This course marks the beginning of my journey as a  ✨web developer✨.
 
 ---
 ### besides coding
@@ -15,7 +15,8 @@ I'm Carmen and currently taking part in the Web Development Bootcamp organised b
 
 ### Tech Stack
 
- ⚙  `HTML 5` | `CSS` |  `Git` | `JavaScript` | `React` | `Node.js` | `Agile Workflows`
+ ⚙  `HTML 5` | `CSS` |  `Git` | `JavaScript` | `React` | `Next.js` | `Node.js` | `MongoDB` | `Agile Workflows`
+
 
 
 
